@@ -1,7 +1,7 @@
 {
-  "name": "web3",
+  "name": "superdaoweb3js",
   "namespace": "ethereum",
-  "version": "1.0.0-beta",
+  "version": "1.0.1-beta",
   "description": "Ethereum JavaScript API, middleware to talk to a ethereum node over RPC",
   "license": "LGPL-3.0",
   "main": "./src/index.js",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethereum/web3.js.git"
+    "url": "https://github.com/mikesla/superdaoweb3js.git"
   },
   "homepage": "https://github.com/ethereum/web3.js",
   "bugs": {

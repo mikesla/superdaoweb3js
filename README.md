@@ -1,4 +1,4 @@
-web3.js has moved from 0.x.x to 1.x.x. This is a majore refactor, please read the following guide to update your dapp.
+superdaoweb3.js has moved from 0.x.x to 1.x.x. This is a majore refactor, please read the following guide to update your dapp.
 
 
 # web3.js - Ethereum JavaScript API
