@@ -1,7 +1,7 @@
 {
   "name": "superdaoweb3js",
   "namespace": "ethereum",
-  "version": "1.0.1-beta",
+  "version": "1.0.4-beta",
   "description": "Ethereum JavaScript API, middleware to talk to a ethereum node over RPC",
   "license": "LGPL-3.0",
   "main": "./src/index.js",

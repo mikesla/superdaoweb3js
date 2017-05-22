@@ -4,11 +4,11 @@
 *un~
 */**/.DS_Store
 npm-debug.log
+node_modules
 .npm/
 /coverage
 /tmp
 example/js
-node_modules
 bower_components
 /bower
 .idea/
